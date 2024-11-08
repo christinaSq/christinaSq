@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christinaSq
-- 👀 I’m interested in fullstack coding and excited to learn all about it.
-- 🌱 I’m currently learning Java, SQL, JavaScrypt, PHP, HTML and CSS.
+- 👀 I'm really motivated to learn all about front-end coding.
+- 🌱 I'm currently learning Java, SQL, JavaScrypt, PHP, HTML and CSS.
 - 📫 How to reach me: christinasqal@gmail.com
 - ⚡ Fun fact: I'm a spanish and english native speaker.
 
